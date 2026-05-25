@@ -100,8 +100,8 @@ Pixel-accurate UI recreations of modern web interfaces.
 
 <p align="center">
   <a href="https://github.com/asm-saim">GitHub</a> •
-  <a href="https://linkedin.com">LinkedIn</a> •
+  <a href="//https://www.linkedin.com/in/asmsaim/">LinkedIn</a> •
   <a href="mailto:saim777m@email.com">Email</a> •
-  <a href="https://asm-saim.io">Portfolio</a><br><br>
+  <a href="https://asm-saim.github.io">Portfolio</a><br><br>
   ⭐ Focused on building clean, fast, and scalable frontend experiences.
 </p>
