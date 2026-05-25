@@ -94,3 +94,8 @@ Pixel-accurate UI recreations of modern web interfaces.
 ✔ Responsive UI development
 ✔ Tailwind CSS design systems
 ✔ Real-world frontend application building
+
+🌐 Connect With Me
+<p align="center"> <a href="https://github.com/asm-saim">GitHub</a> • <a href="https://linkedin.com">LinkedIn</a> • <a href="mailto:saim777m@email.com">Email</a> • <a href="https://asm-saim.io">Portfolio</a> </p>
+
+<p align="center"> ⭐ Focused on building clean, fast, and scalable frontend experiences. </p> ```
