@@ -1,97 +1,99 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi there, I'm ASM Saim 👋</h1>
+<h1 align="center">Hi, I'm Your Name 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer · Open Source Enthusiast</b>
+  <b>Frontend Developer · React & JavaScript</b>
 </p>
 
 <p align="center">
-  Building the web, one commit at a time 🚀
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=flat-square">
-  <img src="https://img.shields.io/badge/Learning-Always-orange?style=flat-square">
+  I build clean, responsive, and user-focused web interfaces.
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
-##   About Me
-
-I'm a passionate full-stack engineer with 1+ years of experience building scalable web apps and clean system architectures.
-
-- 🔭 Working on: **AI-powered SaaS dashboard**
-- 🌱 Learning: **Rust, WebAssembly, LLM integrations**
-- 👯 Open to: **Open-source collaboration**
-- 💬 Ask me about: **React, Node.js, system design**
-- ⚡ Fun fact: I automate everything — even repetitive life tasks
+<!-- ================= MINIMAL BADGES ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square">
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square">
+  <img src="https://img.shields.io/badge/UI-TailwindCSS-38B2AC?style=flat-square">
+</p>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## 👨‍💻 About Me
+
+I focus on building responsive and interactive web applications with modern frontend technologies.
+
+I enjoy writing clean code and turning UI ideas into real, functional products.
+
+- 🔭 Building frontend web applications
+- ⚡ Focused on UI design and performance
+- 💬 Experienced with React component development
+- 🎯 Interested in scalable frontend architecture
+- 📫 Open to collaboration on web projects
+
+---
+
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind)
+### Core Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql)
-
-### Database
-![DB](https://skillicons.dev/icons?i=postgres)
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
-### 🧩 DevBoard
-Real-time developer dashboard with integrations.
+### 🌐 Portfolio Website
+Responsive personal portfolio built with modern frontend tools.
 
-- Next.js · WebSockets · Redis  
-- 🔗 https://github.com/alexrahman/devboard  
-
----
-
-### 🛒 ShopFlow
-E-commerce platform with Stripe payments.
-
-- React · NestJS · PostgreSQL · Prisma  
-- 🔗 https://github.com/alexrahman/shopflow  
+- Clean UI design  
+- Mobile-first layout  
+- Fast performance  
+- 🔗 Add link here  
 
 ---
 
-### 🤖 AIChat CLI
-Terminal AI assistant with memory.
+### 🧩 React Projects
+Collection of React-based UI components and small apps.
 
-- Python · LLM API · CLI tools  
-- 🔗 https://github.com/alexrahman/aichat-cli  
+- Component-driven architecture  
+- Hooks and state management  
+- Reusable UI patterns  
+- 🔗 Add link here  
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+### 🎨 UI Practice Projects
+Frontend clones and UI experiments.
+
+- Tailwind CSS styling  
+- Responsive layouts  
+- Design accuracy focus  
+- 🔗 Add link here  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexrahman&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexrahman&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="48%">
 </p>
 
 ---
 
-<!-- ================= CONNECT ================= -->
-## 🌐 Connect With Me
+## 🎯 Focus Areas
 
-<p align="center">
-  <a href="mailto:saim777m@email.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/asmsaim/">💼 LinkedIn</a> •
-  <a href="https://github.com/asm-saim">💻 GitHub</a>
-</p>
-
----
-
-<p align="center">
-  ⭐ Star my repos if you find them useful!
-</p>
+```text
+✔ JavaScript fundamentals
+✔ React component architecture
+✔ Responsive UI development
+✔ Tailwind CSS design systems
+✔ Real-world frontend projects
