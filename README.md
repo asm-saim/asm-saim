@@ -13,11 +13,14 @@ I build responsive, user-friendly web apps with React, JavaScript, and Tailwind 
 
 ## 🤝 Let's Connect
 
+## 🤝 Let's Connect
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/asmsaim/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/asmsaim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:saim777m@gmail.com">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40" alt="Email">
+  <a href="mailto:saim777m@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
