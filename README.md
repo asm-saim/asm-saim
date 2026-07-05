@@ -17,7 +17,7 @@ I build responsive, user-friendly web apps with React, JavaScript, and Tailwind 
   <a href="https://www.linkedin.com/in/asmsaim/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn">
   </a>
-  <a href="mailto:saim777m@email.com">
+  <a href="mailto:saim777m@gmail.com">
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40" alt="Email">
   </a>
 </p>
