@@ -11,9 +11,9 @@ I build responsive, user-friendly web apps with React, JavaScript, and Tailwind 
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
-<p align="center">
-  <a href="//https://www.linkedin.com/in/asmsaim/">LinkedIn</a> •
-  <a href="mailto:saim777m@email.com">Email</a> •
+<p>
+  <a href="https://www.linkedin.com/in/asmsaim/">LinkedIn</a> •
+  <a href="mailto:saim777m@email.com">Email</a>
 </p>
