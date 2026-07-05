@@ -1,98 +1,25 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Hi, I'm ASM Saim 👋</h1>
+# Hi, I'm Saim 👋
+### Frontend Developer | React · JavaScript · Tailwind CSS
 
-<p align="center">
-  <b>Frontend Developer · React & JavaScript Specialist</b>
-</p>
-
-<p align="center">
-  I build modern, responsive, and high-performance web interfaces.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Tech-JavaScript%20%7C%20React%20%7C%20Tailwind-success?style=flat-square">
-  <img src="https://img.shields.io/badge/Passion-Clean%20UI%20%26%20UX-orange?style=flat-square">
-</p>
+I build responsive, user-friendly web apps with React, JavaScript, and Tailwind CSS. Currently leveling up with TypeScript and exploring AI-assisted development.
 
 ---
 
-## 👨‍💻 About Me
-
-I’m a web developer focused on building clean, responsive, and user-friendly digital experiences.
-
-I enjoy transforming ideas into functional web applications with modern frontend technologies and strong attention to detail.
-
-- 🔭 Focused on building real-world frontend applications
-- ⚡ Strong interest in UI engineering and performance optimization
-- 💬 Skilled in building interactive interfaces using React
-- 🎯 Goal-driven toward mastering scalable web architectures
-- 📫 Open to collaboration on frontend and UI-focused projects
+- 🌱 **Learning:** TypeScript, AI/ML basics, React best practices  
+- 🔭 **Currently building:** REST API–powered React apps  
+- 💬 **Ask me about:** React, JavaScript, HTML/CSS, Tailwind CSS  
+- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME) · [Email](mailto:your.email@example.com)
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Core Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### 🔧 Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-A responsive personal portfolio built with modern frontend technologies.
-
-- Clean UI/UX design  
-- Mobile-first responsive layout  
-- Fast and optimized performance  
-- 🔗 Add your link here  
-
----
-
-### 🧩 React UI Projects
-A collection of reusable React components and interface experiments.
-
-- Component-based architecture  
-- State management with React hooks  
-- Modular and scalable structure  
-- 🔗 Add your link here  
-
----
-
-### 🎨 Frontend Interface Clones
-Pixel-accurate UI recreations of modern web interfaces.
-
-- Tailwind-based styling system  
-- Responsive layouts across devices  
-- Focus on design precision  
-- 🔗 Add your link here  
-
----
-
-## 🎯 Focus Areas
-
-```text
-✔ Advanced JavaScript & DOM mastery
-✔ React component architecture
-✔ Responsive UI development
-✔ Tailwind CSS design systems
-✔ Real-world frontend application building
-```
+### 🛠️ Connect with Me
+[![LinkedIn](//https://www.linkedin.com/in/asmsaim/)
+[![Gmail](mailto:saim777m@email.com)
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/asm-saim">GitHub</a> •
   <a href="//https://www.linkedin.com/in/asmsaim/">LinkedIn</a> •
   <a href="mailto:saim777m@email.com">Email</a> •
-  <a href="https://asm-saim.github.io">Portfolio</a><br><br>
   ⭐ Focused on building clean, fast, and scalable frontend experiences.
 </p>
