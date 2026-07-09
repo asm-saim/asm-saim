@@ -1,5 +1,5 @@
 # Hi, I'm Saim 👋
-### Frontend Developer | React | JavaScript | Tailwind CSS
+### React Developer | JavaScript 
 
 I build responsive, user-friendly web apps with React, JavaScript, and Tailwind CSS. Currently leveling up with TypeScript and exploring AI-assisted development.
 
