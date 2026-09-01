@@ -44,6 +44,7 @@ React developer from Bangladesh, building responsive web apps with **React**, **
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/asmsaim/) &nbsp;|&nbsp; [Email](mailto:saim777m@gmail.com) &nbsp;|&nbsp; [GitHub](https://github.com/asm-saim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmsaim/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saim777m@gmail.com)
 
 </div>
