@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2d2d2d&height=160&section=header&text=A%20S%20M%20Saim&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=React%20Developer%20·%20JavaScript%20·%20TypeScript&descAlignY=68&descSize=16&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2d2d2d&height=160&section=header&text=A%20S%20M%20Saim&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=React%20Developer%20-%20JavaScript%20-%20TypeScript&descAlignY=68&descSize=16&descColor=cccccc" width="100%"/>
 
 </div>
 
@@ -35,7 +35,7 @@ React developer from Bangladesh, building responsive web apps with **React**, **
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=asm-saim&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asm-saim&theme=github-dark-blue&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=asm-saim&theme=github-dark-blue&hide_border=true" height="150"/>
 
 </div>
 
@@ -45,6 +45,6 @@ React developer from Bangladesh, building responsive web apps with **React**, **
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/asmsaim/) &nbsp;·&nbsp; [Email](mailto:saim777m@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/asm-saim)
+[LinkedIn](https://www.linkedin.com/in/asmsaim/) &nbsp;|&nbsp; [Email](mailto:saim777m@gmail.com) &nbsp;|&nbsp; [GitHub](https://github.com/asm-saim)
 
 </div>
