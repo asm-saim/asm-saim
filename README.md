@@ -43,8 +43,4 @@ React developer from Bangladesh, building responsive web apps with **React**, **
 ## Let's Connect
 <div align="center">
 
-<a href="https://www.linkedin.com/in/asmsaim/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> 
-<a href="https://asm-saim.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=googlechrome&theme=dark" style="background-color: white;" /></a> 
-<a href="mailto:saim777m@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
-
-</div>
+<a href="https://www.linkedin.com/in/asmsaim/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" height="48" /></a> <a href="https://asm-saim.netlify.app/" target="_blank"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiPgogIDxyZWN0IHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiByeD0iMjQiIGZpbGw9IiMxNDE0MTQiLz4KICA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj4KICAgIDxjaXJjbGUgY3g9IjY0IiBjeT0iNjQiIHI9IjM4Ii8+CiAgICA8ZWxsaXBzZSBjeD0iNjQiIGN5PSI2NCIgcng9IjE3IiByeT0iMzgiLz4KICAgIDxsaW5lIHgxPSIyNiIgeTE9IjY0IiB4Mj0iMTAyIiB5Mj0iNjQiLz4KICAgIDxwYXRoIGQ9Ik0zMiA0MiBRNjQgNTIgOTYgNDIiLz4KICAgIDxwYXRoIGQ9Ik0zMiA4NiBRNjQgNzYgOTYgODYiLz4KICA8L2c+Cjwvc3ZnPgo=" height="48" /></a> <a href="mailto:saim777m@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" height="48" /></a>
