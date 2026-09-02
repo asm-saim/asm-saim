@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,50:020B1C,80:06152F,100:0A2A66&height=170&section=header&text=A%20S%20M%20Saim&fontSize=44&fontColor=FFFFFF&fontAlignY=42&desc=React%20Developer%20%7C%20JavaScript%20%7C%20TypeScript&descAlignY=68&descSize=17&descColor=C9D1D9&animation=fadeIn" width="100%"/>
-
+<img src="assets/banner.png" width="100%"/>
 </div>
 
 <br/>
