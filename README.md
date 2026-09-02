@@ -6,27 +6,31 @@
 
 ## About
 
-I build responsive, user-friendly web applications using modern frontend and backend technologies. My focus is on clean code, scalable architecture, responsive interfaces, and practical solutions through continuous learning and problem solving.
+I build responsive, user-friendly web applications using modern frontend and backend technologies. I focus on clean code, scalable architecture, responsive interfaces, and practical solutions through continuous learning and problem-solving.
 
 <br/>
 
 ## Currently
 
-- Building REST API–powered React apps
-- Learning TypeScript, AI/ML fundamentals, and React best practices
-- Open to discussing React, JavaScript, HTML/CSS, Tailwind CSS
+- Building full-stack web applications with React, Next.js, Node.js, Express.js, and MongoDB
+- Strengthening TypeScript and modern React development practices
+- Exploring AI-assisted development and integrating AI tools into my development workflow
 
 <br/>
 
-## Stack
+## Technical Skills
+<div>
 
-<div align="center">
+### Frontend
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,javascript,typescript,react,nextjs&theme=dark&perline=7" /> <br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,git,github,figma,vscode&theme=dark&perline=11" />
+### Backend & Database
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,mongodb,mongoose,betterauth&theme=dark&perline=7" /> <br/>
 
-</div>
+### Tools & Engineering
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=dark&perline=7" /> <br/>
 
-<br/>
+</div> <br/>
 
 ## Stats
 
