@@ -6,7 +6,7 @@
 
 ## About
 
-React developer from Bangladesh, building responsive web apps with **React**, **JavaScript**, and **Tailwind CSS**. Currently deepening my **TypeScript** skills and exploring AI-assisted development.
+I build responsive, user-friendly web applications using modern frontend and backend technologies. My focus is on clean code, scalable architecture, responsive interfaces, and practical solutions through continuous learning and problem solving.
 
 <br/>
 
