@@ -43,6 +43,6 @@ React developer from Bangladesh, building responsive web apps with **React**, **
 ## Let's Connect
 <div align="center">
 
-<a href="https://www.linkedin.com/in/asmsaim/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" height="48" /></a> <a href="https://asm-saim.netlify.app/" target="_blank"><img src="assets/globe-icon.svg" height="48" width="48" /></a> <a href="mailto:saim777m@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" height="48" /></a>
+<a href="https://www.linkedin.com/in/asmsaim/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" height="48" /></a>    <a href="https://asm-saim.netlify.app/" target="_blank"><img src="assets/globe-icon.svg" height="48" width="48" /></a>    <a href="mailto:saim777m@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" height="48" /></a>
 
 </div>
