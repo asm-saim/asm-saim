@@ -40,9 +40,11 @@ React developer from Bangladesh, building responsive web apps with **React**, **
 
 <br/>
 
-Get in Touch
+## Let's Connect
 <div align="center">
 
-<a href="https://www.linkedin.com/in/asmsaim/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> <a href="https://asm-saim.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" /></a> <a href="mailto:saim777m@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a> 
+<a href="https://www.linkedin.com/in/asmsaim/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> 
+<a href="https://asm-saim.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" /></a> 
+<a href="mailto:saim777m@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a> 
 
 </div>
